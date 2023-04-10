@@ -1,0 +1,11 @@
+C:\Users\guilh\source\repos\TP3\NumSs\bin\Debug\NumSs.exe.config
+C:\Users\guilh\source\repos\TP3\NumSs\bin\Debug\NumSs.exe
+C:\Users\guilh\source\repos\TP3\NumSs\bin\Debug\NumSs.pdb
+C:\Users\guilh\source\repos\TP3\NumSs\obj\Debug\NumSs.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\TP3\NumSs\obj\Debug\NumSs.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\source\repos\TP3\NumSs\obj\Debug\NumSs.Form1.resources
+C:\Users\guilh\source\repos\TP3\NumSs\obj\Debug\NumSs.Properties.Resources.resources
+C:\Users\guilh\source\repos\TP3\NumSs\obj\Debug\NumSs.csproj.GenerateResource.cache
+C:\Users\guilh\source\repos\TP3\NumSs\obj\Debug\NumSs.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\TP3\NumSs\obj\Debug\NumSs.exe
+C:\Users\guilh\source\repos\TP3\NumSs\obj\Debug\NumSs.pdb
